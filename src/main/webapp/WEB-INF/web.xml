@@ -13,7 +13,7 @@
   <servlet>
   	<servlet-name>testServlet</servlet-name>
   	<servlet-class>pac1.TestServlet</servlet-class>
-  </servlet>
+   </servlet>
   
   <servlet-mapping>
   	<servlet-name>testServlet</servlet-name>
